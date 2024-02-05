@@ -4,12 +4,6 @@
 
 Este é um exemplo de código HTML e CSS que cria um site simples sobre curiosidades de tecnologia, com foco na história do mascote do Android.
 
-<video width="320" height="240" controls>
-  <source src="/video/video_tdigKu6e.mp4" type="video/mp4">
-  Seu navegador não suporta o elemento de vídeo.
-</video>
-
-
 ## ➡️ Estrutura do Projeto
 
 - **index.html**: Este arquivo contém a estrutura HTML do site, incluindo cabeçalho, menu, conteúdo principal, e rodapé. Ele usa tags semânticas como `<header>`, `<nav>`, `<main>`, `<article>`, `<aside>`, e `<footer>` para organizar o conteúdo.
